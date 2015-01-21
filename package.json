@@ -1,0 +1,53 @@
+{
+  "name": "grunt-torn-asset-cachebuster",
+  "description": "Extends grunt-asset-cachebuster plugin",
+  "version": "0.3.1",
+  "homepage": "",
+  "author": {
+    "name": "alexanderl",
+    "email": "alexanderl@default-value.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderL/grunt-plugins.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt": "~0.4.1"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.1"
+  },
+  "keywords": [
+     "gruntplugin",
+    "cache",
+    "buster",
+    "css",
+    "html",
+    "image",
+    "images",
+    "cachebuster"
+  ],
+  "dependencies": {
+    "interpolate": "~0.1.0"
+  },
+  "readme": "ERROR: No README data found!"
+}
