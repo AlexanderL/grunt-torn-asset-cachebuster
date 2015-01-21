@@ -1,8 +1,9 @@
 /*
- * grunt-asset-cachebuster
+ * grunt-torn-asset-cachebuster extends grunt-asset-cachebuster
+ * https://github.com/AlexanderL/grunt-torn-asset-cachebuster
  * https://github.com/gillesruppert/grunt-asset-cachebuster
  *
- * Copyright (c) 2013 Gilles Ruppert
+ * Copyright (c) 2015 Alexander Lemishchenko
  * Licensed under the MIT license.
  */
 
