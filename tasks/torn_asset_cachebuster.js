@@ -69,7 +69,7 @@ module.exports = function(grunt) {
   // Please see the Grunt documentation for more information regarding task
   // creation: http://gruntjs.com/creating-tasks
 
-  grunt.registerMultiTask('asset_cachebuster', 'Cachebust images, scripts and other assets in your HTML & CSS files.', function() {
+  grunt.registerMultiTask('torn_asset_cachebuster', 'Cachebust images, scripts and other assets in your HTML & CSS files.', function() {
     // Merge task-specific and/or target-specific options with these defaults.
     var options = this.options({
       buster: '123456',
